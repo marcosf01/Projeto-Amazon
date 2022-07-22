@@ -17,7 +17,7 @@ import com.tech4pay.pagamentos.dto.PagamentoDtoComProduto;
 import com.tech4pay.pagamentos.service.PagamentoService;
 
 @RestController
-@RequestMapping("/pagamentos")
+@RequestMapping("/api/pagamentos")
 public class PagamentoController {
     
     @Autowired
