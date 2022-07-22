@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "ecommerce"
+		},
+		{
+			"name": "eureka-server",
+			"path": "eureka-server"
+		},
+		{
+			"name": "gateway",
+			"path": "gateway"
+		},
+		{
+			"name": "pagamentos",
+			"path": "pagamentos"
+		},
+		{
+			"path": "pessoas-ms"
+		},
+		{
+			"path": "animais-ms"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
