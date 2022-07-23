@@ -6,10 +6,9 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
+O projeto consiste na criação de APIs para a realização de um CRUD de ecommerce e pagamento, utilizando Banco de Dados NoSQL com o relacionamento entre os mesmos. Para a construção do projeto foi escolhido como tema a Amazon.
 
-O projeto consiste na criação de APIs para a realização de um CRUD(ecommerce e pagamento), utilizando Banco de Dados NoSQL com o relacionamento entre os mesmos.
-
-### :hammer: Funcionalidades do projeto
+### :gear: Funcionalidades do projeto
 
 - `1 :` Adicionar um produto ou pagamento ao BD;
 - `2 :` Listar todos os produtos ou pagamentos;
@@ -17,8 +16,26 @@ O projeto consiste na criação de APIs para a realização de um CRUD(ecommerce
 - `4 :` Editar produto ou pagamento;
 - `5 :` Deletar produto ou pagamento.
 
-### :hammer: Tecnologias utilizadas
+### :computer: Tecnologias utilizadas
 
 - `Java 11` `Spring Boot` `Spring Cloud` `MongoDB` `VS Code`
+
+### :hammer_and_wrench: Abrir e rodar o projeto
+
+Após baixar o projeto, você pode abrir o arquivo `ecommerce.code-workspace` com o Visual Studio Code. Em seguida, aguarde até finalzar a execução do Java na apliação.
+
+Tudo pronto é hora de rodar! Para isso, siga a seguinte ordem de execução:
+
+- `1 :` eureka-server
+- `2 :` gateway
+- `3 :` ecommerce
+- `4 :` pagamentos
+
+Você poderá utilizar o Postman para realizar as requisições e assim tirar pleno proveito das APIs 🏆
+
+## :books: Mais informações do projeto
+
+Gostou do projeto e quer saber mais sobre ele? Entre em contato comigo!
+
 
 
