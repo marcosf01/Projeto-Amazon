@@ -7,10 +7,9 @@
 </p>
 
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when aled it to make a type specimen book. 
+O projeto consiste na criação de APIs para a realização de um CRUD(ecommerce e pagamento), utilizando Banco de Dados NoSQL e fazendo relacionamento entre os mesmos.
 
-## :hammer: Funcionalidades do projeto
+### :hammer: Funcionalidades do projeto
 
 - `1 :` Adicionar um produto ou pagamento ao BD;
 - `2 :` Listar todos os produtos ou pagamentos;
@@ -18,7 +17,7 @@ Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, wh
 - `4 :` Editar produto ou pagamento;
 - `5 :` Deletar produto ou pagamento.
 
-## :hammer: Tecnologias utilizadas
+### :hammer: Tecnologias utilizadas
 
 - `Java 11` `Spring Boot` `Spring Cloud` `MongoDB` `VS Code`
 
