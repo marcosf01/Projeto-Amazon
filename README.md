@@ -7,7 +7,7 @@
 </p>
 
 
-O projeto consiste na criação de APIs para a realização de um CRUD(ecommerce e pagamento), utilizando Banco de Dados NoSQL e fazendo relacionamento entre os mesmos.
+O projeto consiste na criação de APIs para a realização de um CRUD(ecommerce e pagamento), utilizando Banco de Dados NoSQL com o relacionamento entre os mesmos.
 
 ### :hammer: Funcionalidades do projeto
 
