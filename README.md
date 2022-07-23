@@ -1,9 +1,7 @@
 <h1 align="center"> CRUD - Amazon </h1>
 
-![Frame 1](https://user-images.githubusercontent.com/101227242/180593239-3bd3a90e-4d13-4f6d-a6ef-7492213d1652.svg)
+![Frame 1](https://user-images.githubusercontent.com/101227242/180593448-ba95af6f-e76e-4b3d-a4ea-2dc37d497576.svg)
 <h2 align="center"> ecommerce e pagamento </h2>
-![ffff](https://user-images.githubusercontent.com/101227242/180593448-ba95af6f-e76e-4b3d-a4ea-2dc37d497576.svg)
-
 
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
